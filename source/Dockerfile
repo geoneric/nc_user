@@ -1,6 +1,6 @@
 FROM posbank.geoneric.eu:5000/nca/nc_base:latest
 
-MAINTAINER Kor de Jong <k.dejong1@uu.nl>
+MAINTAINER Kor de Jong <k.dejong@geoneric.eu>
 
 COPY requirements.txt /
 
