@@ -53,7 +53,7 @@ class UserResource(Resource):
         # del data["user"]["_links"]
 
 
-        # return data, 204
+        # return data, 200
 
         return "", 204
 
